@@ -1,0 +1,4 @@
+Key value: hb~8Q~HtqxUyyUcIrvy5gC65O0BhBl45d-ktMba-
+App (client) ID: d9601630-47f4-4330-ac00-27b233f5a42a
+TenantID: 29fece34-bb2b-4209-a739-be8fe1df02f5
+Tenant Domain: jticorp.onmicrosoft.com
